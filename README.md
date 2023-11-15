@@ -3,7 +3,7 @@
 About Me
 Hey there! I'm passionate about web development and always striving to create seamless and user-friendly experiences. My journey involves diving deep into the world of React, where I explore the magic of React hooks and design elegant UIs.
 
-#  Current Project: Notion Login & Signup Form
+#  Current Project: Study Notion Login & Signup Form
 📝 Description:
 
 Currently, I'm immersed in studying and refining the login and signup forms for Notion. Leveraging the power of React hooks, I aim to create a dynamic and efficient user authentication system. The forms are not just functional; they're a canvas for exploring the art of user interaction.
